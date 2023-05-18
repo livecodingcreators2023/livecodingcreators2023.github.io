@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live-Coding Creators 2023 Entrance</title>
+    <link>http://livecodingcreators2023.github.io/</link>
+    <description>Recent content on Live-Coding Creators 2023 Entrance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 17:02:50 +0800</lastBuildDate><atom:link href="http://livecodingcreators2023.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creators now playing電台上線</title>
+      <link>http://livecodingcreators2023.github.io/posts/creatorsnowplaying%E9%9B%BB%E5%8F%B0%E4%B8%8A%E7%B7%9A/</link>
+      <pubDate>Thu, 18 May 2023 17:02:50 +0800</pubDate>
+      
+      <guid>http://livecodingcreators2023.github.io/posts/creatorsnowplaying%E9%9B%BB%E5%8F%B0%E4%B8%8A%E7%B7%9A/</guid>
+      <description>這是2023年度C-LAB Creators 〈Live Coding 研究推廣計畫〉延伸出的音樂電台。計畫研究期間看到聽到，喜歡的音樂會放在這裡，多數是計畫中涉及的演算作曲、Live-Coding相關的電子、安彼岸、實驗音樂。此部落格是以音樂分享為主，因此發文時不會特別介紹所用的方法與工具，如果感到好奇但無法從來源、畫面或是網路上搜索到，也歡迎討論。
+creators now playing </description>
+    </item>
+    
+  </channel>
+</rss>
