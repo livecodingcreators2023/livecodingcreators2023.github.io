@@ -6,7 +6,35 @@
     <description>Recent content on Live-Coding Creators 2023 Entrance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 21:25:22 +0800</lastBuildDate><atom:link href="http://livecodingcreators2023.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 09:16:38 +0800</lastBuildDate><atom:link href="http://livecodingcreators2023.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>講座與研究內容記錄</title>
+      <link>http://livecodingcreators2023.github.io/posts/%E8%AC%9B%E5%BA%A7%E8%88%87%E7%A0%94%E7%A9%B6%E5%85%A7%E5%AE%B9%E8%A8%98%E9%8C%84/</link>
+      <pubDate>Thu, 21 Sep 2023 09:16:38 +0800</pubDate>
+      
+      <guid>http://livecodingcreators2023.github.io/posts/%E8%AC%9B%E5%BA%A7%E8%88%87%E7%A0%94%E7%A9%B6%E5%85%A7%E5%AE%B9%E8%A8%98%E9%8C%84/</guid>
+      <description>Live Coding 即時編碼勤勞包 系列講座[活動介紹]
+▞ 入門導覽│即時編碼淺度旅行：給所有人的遊戲場 ▚ 講座內容[連結]
+▞ 文化淺嚐│即時編碼漫談：音樂愛好者的個人觀點 ▚ 講座內容[連結]
+▞ 循序共享│即時編碼一二三：演算與樣式 ▚ 講座內容[連結]
+▞ Live Coding 現場編碼研究資料整理 ▚ [連結]
+▞ 進行中的翻譯計畫 Live Coding: A User’s Manual
+Chapter 1 : Introduction to Live Coding: A User’s Manual [連結] Chapter 2 : Partial Histories[連結] Chapter 3 : Expositions [連結] </description>
+    </item>
+    
+    <item>
+      <title>工作坊內容紀錄</title>
+      <link>http://livecodingcreators2023.github.io/posts/%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%85%A7%E5%AE%B9%E7%B4%80%E9%8C%84/</link>
+      <pubDate>Thu, 21 Sep 2023 09:11:44 +0800</pubDate>
+      
+      <guid>http://livecodingcreators2023.github.io/posts/%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%85%A7%E5%AE%B9%E7%B4%80%E9%8C%84/</guid>
+      <description>Start From Scratch: Live Coding Summer Camp 即時編碼入門工作坊 [活動介紹]
+▞ 給初階者的即時編碼聲響創作 [miniTidal] ▚ 講義 [連結]
+▞ Live Coding 影像實作寶寶班 [hydra] ▚ 講義 [連結]
+▞ 即時編碼睡眠音樂 [Threnoscope] ▚ 講義 [連結]
+▞ Live Coding 工作坊補充資料 ▚ [連結]</description>
+    </item>
+    
     <item>
       <title>九月份講座與工作坊</title>
       <link>http://livecodingcreators2023.github.io/posts/%E4%B9%9D%E6%9C%88%E4%BB%BD%E8%AC%9B%E5%BA%A7%E8%88%87%E5%B7%A5%E4%BD%9C%E5%9D%8A/</link>
